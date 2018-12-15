@@ -1,0 +1,43 @@
+//    QString stringid = "zss";
+//    QString stringpw = "zssdhr";
+//    Uquery.prepare("INSERT INTO user(ID,PASSWORD,LEVEL,ADMIN,POSTTYPE)"
+//                  "VALUES (:ID,:PASSWORD,:LEVEL,:ADMIN,:POSTTYPE)");
+//    Uquery.bindValue(":ID", stringid);
+//    Uquery.bindValue(":PASSWORD", stringpw);
+//    Uquery.bindValue(":LEVEL", 0);
+//    Uquery.bindValue(":ADMIN", 0);
+//    Uquery.bindValue(":POSTTYPE", 0);
+//    Uquery.exec();
+
+//    stringid = "lmq";
+//    stringpw = "lmqdhr";
+//    Uquery.prepare("INSERT INTO user(ID,PASSWORD,LEVEL,ADMIN,POSTTYPE)"
+//                  "VALUES (:ID,:PASSWORD,:LEVEL,:ADMIN,:POSTTYPE)");
+//    Uquery.bindValue(":ID", stringid);
+//    Uquery.bindValue(":PASSWORD", stringpw);
+//    Uquery.bindValue(":LEVEL", 0);
+//    Uquery.bindValue(":ADMIN", 0);
+//    Uquery.bindValue(":POSTTYPE", 0);
+//    Uquery.exec();
+
+//    stringid = "zjb";
+//    stringpw = "zjbdhr";
+//    Uquery.prepare("INSERT INTO user(ID,PASSWORD,LEVEL,ADMIN,POSTTYPE)"
+//                  "VALUES (:ID,:PASSWORD,:LEVEL,:ADMIN,:POSTTYPE)");
+//    Uquery.bindValue(":ID", stringid);
+//    Uquery.bindValue(":PASSWORD", stringpw);
+//    Uquery.bindValue(":LEVEL", 0);
+//    Uquery.bindValue(":ADMIN", 0);
+//    Uquery.bindValue(":POSTTYPE", 0);
+//    Uquery.exec();
+
+//    stringid = "ming";
+//    stringpw = "xiaomingdhr";
+//    Uquery.prepare("INSERT INTO user(ID,PASSWORD,LEVEL,ADMIN,POSTTYPE)"
+//                  "VALUES (:ID,:PASSWORD,:LEVEL,:ADMIN,:POSTTYPE)");
+//    Uquery.bindValue(":ID", stringid);
+//    Uquery.bindValue(":PASSWORD", stringpw);
+//    Uquery.bindValue(":LEVEL", 0);
+//    Uquery.bindValue(":ADMIN", 0);
+//    Uquery.bindValue(":POSTTYPE", 0);
+//    Uquery.exec();
